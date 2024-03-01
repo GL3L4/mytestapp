@@ -1,0 +1,7 @@
+C:\Users\Julian\Virginias Dashboards\line chart tutorial>conda activate env_dash_1_8_0
+
+
+conda deactivate
+
+
+pip install colorama
