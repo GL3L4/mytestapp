@@ -5,3 +5,6 @@ conda deactivate
 
 
 pip install colorama
+
+git config --global user.email "papadamaki@hotmail.de"
+git config --global user.name "GL3L4"
